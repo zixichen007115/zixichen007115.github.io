@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zixi Chen （陈子熙）"
+title                    : "Zixi Chen"
 title_separator          : "-"
-name                     : &name "Zixi Chen （陈子熙）"
+name                     : &name "Zixi Chen"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
