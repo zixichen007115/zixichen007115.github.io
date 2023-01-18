@@ -14,7 +14,7 @@ Oct. 2022. Pontedera
 
 Oct. 2022. Florence
 ======
-<img src="{{ site.url }}/images/florence/1.jpg" height="250"><img src="{{ site.url }}/images/florence/2.jpg" height="250">
+<img src="{{ site.url }}/images/florence/1.jpg" height="250">
 
 Dec. 2022. Livorno
 ======
