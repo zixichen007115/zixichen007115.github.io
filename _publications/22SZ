@@ -1,7 +1,7 @@
 ---
 title: "Hardware Technology of Vision-Based Tactile Sensor: A Review"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/22SZ
 excerpt: 'A vision-based tactile sensor (VBTS) is an innovative optical sensor widely applied in robotic perception. The VBTS consists of a contact module, an illumination module, and a camera module. Its hardware technologies contain preparation, performance, functions, materials, and optimization design of components. However, the current literature lacks a review of hardware technologies to formulate a complete manufacturing scheme. Therefore, this article focuses on hardware technologies and reviewed the literature over the past five years. We analyze the core components of each module and sort out a technical route. The current challenges and problems of hardware technologies are discussed to propose some feasible solutions. Considering cross-disciplinary applications, we think that multidisciplinary hardware technologies are expected to promote the development of next-generation VBTSs. In addition, we aim to provide a valuable guideline for developers to improve the performance of VBTSs.'
 date: 2022-09-22
 venue: 'IEEE Sensors Journal'
