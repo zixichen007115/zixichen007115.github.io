@@ -18,4 +18,4 @@ Email: Zixi.Chen at santannapisa.it
 ## News
 * Jan 2023: Our paper [Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors](https://github.com/zixichen007115/Tacchi) has been accepted to RA-L! Thank Dr. Shan Luo and Dr. Bin Fang for the supervision during this work! 
 
-* Nov 2022: Our paper [Hardware Technology of Vision-Based Tactile Sensor: A Review](https://ieeexplore.ieee.org/document/9911183) has been accepted to IEEE Sensors Journal!
+* Oct 2022: Our paper [Hardware Technology of Vision-Based Tactile Sensor: A Review](https://ieeexplore.ieee.org/document/9911183) has been accepted to IEEE Sensors Journal!
