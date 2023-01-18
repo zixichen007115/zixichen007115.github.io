@@ -10,6 +10,7 @@ author_profile: true
 
 Oct. 2022. Pontedera
 ======
+<img src="{{ site.url }}/images/pontedera/1.jpg" alt="..."><img src="{{ site.url }}/images/pontedera/2.jpg" alt="..."><img src="{{ site.url }}/images/pontedera/3.jpg" alt="...">
 <img src="https://github.com/zixichen007115/zixichen007115.github.io/blob/master/images/pontedera/1.jpg" height="250px"><img src="https://github.com/zixichen007115/zixichen007115.github.io/blob/master/images/pontedera/2.jpg" height="250px"><img src="https://github.com/zixichen007115/zixichen007115.github.io/blob/master/images/pontedera/3.jpg" height="250px">
 
 Oct. 2022. Florence
