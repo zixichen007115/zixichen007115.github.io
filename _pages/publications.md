@@ -1,9 +1,8 @@
 ---
 layout: archive
-title: "Publication"
-permalink: /publication/
+title: "Publications"
+permalink: /publications/
 author_profile: true
-toc: true
 ---
 My citation profile can be found in [Google Scholar](https://scholar.google.com/citations?hl=en&tzom=-60&user=s78k3cgAAAAJ).
 
