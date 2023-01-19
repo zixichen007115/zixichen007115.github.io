@@ -26,4 +26,4 @@ Oct. 2022. Pontedera
 
 Beijing 2022
 ======
-<img src="{{ site.url }}/images/beijing/1.jpg" height="25"><img src="{{ site.url }}/images/beijing/2.jpg" height="25"><img src="{{ site.url }}/images/beijing/3.jpg" height="25">
+<img src="{{ site.url }}/images/beijing/1.jpg" width="250"><img src="{{ site.url }}/images/beijing/2.jpg" width="250"><img src="{{ site.url }}/images/beijing/3.jpg" width="250">
