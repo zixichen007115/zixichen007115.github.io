@@ -14,7 +14,7 @@ Gromo 2022
 
 Livorno 2022
 ======
-<img src="{{ site.url }}/images/livorno/1.jpg"><img src="{{ site.url }}/images/livorno/2.jpg"><img src="{{ site.url }}/images/livorno/3.jpg">
+<img src="{{ site.url }}/images/livorno/1.jpg"><img src="{{ site.url }}/images/livorno/2.jpg">
 
 Florence 2022
 ======
