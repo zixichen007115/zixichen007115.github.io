@@ -14,8 +14,6 @@ Please [email me](mailto:Zixi.Chen"santannapisa.it) if you require a copy of the
 
 <!-- <sup>*</sup> denotes corresponding author. -->
 
-{% include toc %}
-
 <!-- # Preprint -->
 
 # 2023
