@@ -1,16 +1,25 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Publication"
+permalink: /publication/
 author_profile: true
+toc: true
 ---
+My citation profile can be found in [Google Scholar](https://scholar.google.com/citations?hl=en&tzom=-60&user=s78k3cgAAAAJ).
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<!-- * Our publication in the area of key generation from wireless channels is summarized at [here](/keygen/keygen-pub/)
+* Our publication in the area of radio frequency fingerprinting identification is summarized at [here](/rffi/rffi-pub/) -->
 
-{% include base_path %}
+Please [email me](mailto:Zixi.Chen"santannapisa.it) if you require a copy of the paper.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<!-- <sup>*</sup> denotes corresponding author. -->
+
+{% include toc %}
+
+<!-- # Preprint -->
+
+# 2023
+1. **Z. Chen**, S. Zhang, S. Luo, F. Sun and B. Fang, "Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2023.3237042.
+
+# 2022
+1. S. Zhang, **Z. Chen**, Y. Gao, et al. Hardware technology of vision-based tactile sensor: A review[J]. IEEE Sensors Journal, 2022.
