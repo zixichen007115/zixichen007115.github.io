@@ -10,7 +10,7 @@ author_profile: true
 
 Gromo 2022
 ======
-<img src="{{ site.url }}/images/gromo/1.jpg"> <img src="{{ site.url }}/images/gromo/2.jpg"> <img src="{{ site.url }}/images/gromo/3.jpg"> <img src="{{ site.url }}/images/gromo/4.jpg">
+<img src="{{ site.url }}/images/gromo/1.jpg" height = "200"> <img src="{{ site.url }}/images/gromo/2.jpg" height = "200"> <img src="{{ site.url }}/images/gromo/3.jpg" height = "200"> <img src="{{ site.url }}/images/gromo/4.jpg" height = "200">
 
 Livorno 2022
 ======
