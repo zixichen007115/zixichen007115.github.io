@@ -16,6 +16,8 @@ I was a research assistant at King's College London and Tsinghua University. Dur
 Email: Zixi.Chen at santannapisa.it
 
 ## News
+* Feb 2023: I give a [paper sharing](https://www.bilibili.com/video/BV12e4y1P7vU/?spm_id_from=333.999.0.0&vd_source=30f84963de0918b2a474e7e104372ace) for taichi community in Chinese.
+
 * Jan 2023: Our paper [Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors](https://github.com/zixichen007115/Tacchi) has been accepted to RA-L! Thank Dr. Shan Luo and Dr. Bin Fang for the supervision during this work! 
 
 * Oct 2022: Our paper [Hardware Technology of Vision-Based Tactile Sensor: A Review](https://ieeexplore.ieee.org/document/9911183) has been accepted to IEEE Sensors Journal!
