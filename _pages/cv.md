@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Eng. at Harbin Institute of Technology (Shenzhen), 2020
-* M.Sc. at Imperial College, 2021
+* M.Sc. at Imperial College,  2021
 * Ph.D at Scuola Superiore Sant'Anna, 2025 (expected)
 
 Work experience
