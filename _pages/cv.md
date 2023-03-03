@@ -31,4 +31,4 @@ Skills
 Publications
 ======
 1. **Chen Z**, Zhang S, Luo S, et al. [Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors](https://ieeexplore.ieee.org/document/10017344)[J]. IEEE Robotics and Automation Letters, 2023.
-2. Zhang S, **Chen Z**, Gao Y, et al. Hardware technology of vision-based tactile sensor: A review[J]. IEEE Sensors Journal, 2022.
+2. Zhang S, **Chen Z**, Gao Y, et al. [Hardware technology of vision-based tactile sensor: A review](https://ieeexplore.ieee.org/abstract/document/9911183)[J]. IEEE Sensors Journal, 2022.
