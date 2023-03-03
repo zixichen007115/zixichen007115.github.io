@@ -30,7 +30,6 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+1. **Z. Chen**, S. Zhang, S. Luo, F. Sun and B. Fang, "Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2023.3237042.
+2. S. Zhang, **Z. Chen**, Y. Gao, et al. Hardware technology of vision-based tactile sensor: A review[J]. IEEE Sensors Journal, 2022.
   
