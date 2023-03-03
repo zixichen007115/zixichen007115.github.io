@@ -16,7 +16,7 @@ Please [email me](mailto:Zixi.Chen@santannapisa.it) if you require a copy of the
 <!-- # Preprint -->
 
 # 2023
-1. **Z. Chen**, S. Zhang, S. Luo, F. Sun and B. Fang, "[Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors](https://ieeexplore.ieee.org/document/10017344)," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2023.3237042.
+1. **Chen Z**, Zhang S, Luo S, et al. [Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors](https://ieeexplore.ieee.org/document/10017344)[J]. IEEE Robotics and Automation Letters, 2023.
 
 # 2022
-1. S. Zhang, **Z. Chen**, Y. Gao, et al. [Hardware Technology of Vision-Based Tactile Sensor: A Review](https://ieeexplore.ieee.org/document/9911183)[J]. IEEE Sensors Journal, 2022.
+1. Zhang S, **Chen Z**, Gao Y, et al. Hardware technology of vision-based tactile sensor: A review[J]. IEEE Sensors Journal, 2022.
