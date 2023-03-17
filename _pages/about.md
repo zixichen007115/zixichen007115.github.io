@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am cureently a Ph.D student at Scuola Superiore Sant'Anna (SSSA) under the supervision of [Prof. Cesare Stefanini](https://scholar.google.com/citations?user=4ySaHDQAAAAJ&hl=en). My research focuses on machine learning and soft robot control.
+I am cureently a Ph.D student at Scuola Superiore Sant'Anna (SSSA) under the supervision of [Prof. Cesare Stefanini](https://scholar.google.com/citations?user=4ySaHDQAAAAJ&hl=en) and [Prof. Arianna Menciassi](https://scholar.google.com/citations?user=mI-YzHgAAAAJ&hl=en). My research focuses on machine learning and soft robot control.
 
 I was a research assistant at King's College London and Tsinghua University. During this period my research focused on physical model based tactile sensor simulation.
 
