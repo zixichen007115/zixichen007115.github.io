@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zixi Chen （陈子熙）"
   avatar           : "profile.jpg"
-  bio              : "A Ph.D. student on neural network and soft robot modeling."
+  bio              : "A Ph.D. student on neural network and soft robot control."
   location         : "Pontedera, Pisa, Italy"
   employer         : "Scuola Superiore Sant'Anna"
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/zixi-chen-00b06a1aa/"
   orcid            : "https://orcid.org/0000-0001-6555-9938"
   pinterest        :
   soundcloud       :
@@ -116,6 +116,7 @@ author:
   youtube          :
   wikipedia        :
   zhihu            : "https://www.zhihu.com/people/chen-zi-xi-84"
+  clarivate        : 
 
 # Reading Files
 include:
