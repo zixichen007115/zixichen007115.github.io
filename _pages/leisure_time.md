@@ -18,7 +18,7 @@ London 2023
 
 Rome 2023
 ======
-<img src="{{ site.url }}/images/rome/1.jpg" height = "150"> 
+<img src="{{ site.url }}/images/rome/1.jpg" height = "150"> <img src="{{ site.url }}/images/rome/2.jpg" height = "150">
 
 Gromo 2022
 ======
