@@ -8,6 +8,18 @@ author_profile: true
 
 {% include base_path %}
 
+Prato 2023
+======
+<img src="{{ site.url }}/images/prato/1.jpg" height = "150">
+
+London 2023
+======
+<img src="{{ site.url }}/images/london_2023/1.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/2.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/3.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/4.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/5.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/6.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/8.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/9.jpg" height = "150">
+
+Rome 2023
+======
+<img src="{{ site.url }}/images/rome/1.jpg" height = "150"> <img src="{{ site.url }}/images/rome/2.jpeg" height = "150"> 
+
 Gromo 2022
 ======
 <img src="{{ site.url }}/images/gromo/1.jpg" height = "150"> <img src="{{ site.url }}/images/gromo/2.jpg" height = "150"> <img src="{{ site.url }}/images/gromo/3.jpg" height = "150"> <img src="{{ site.url }}/images/gromo/4.jpg" height = "150">
