@@ -14,7 +14,7 @@ Prato 2023
 
 London 2023
 ======
-<img src="{{ site.url }}/images/london_2023/1.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/2.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/3.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/4.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/5.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/6.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/8.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/9.jpg" height = "150">
+<img src="{{ site.url }}/images/london_2023/1.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/2.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/3.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/4.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/5.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/6.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/7.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/8.jpg" height = "150"> <img src="{{ site.url }}/images/london_2023/9.jpg" height = "150">
 
 Rome 2023
 ======
