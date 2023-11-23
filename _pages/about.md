@@ -10,12 +10,16 @@ redirect_from:
 
 I am currently a Ph.D. student at Scuola Superiore Sant'Anna (SSSA) under the supervision of [Prof. Cesare Stefanini](https://scholar.google.com/citations?user=4ySaHDQAAAAJ&hl=en) and [Prof. Arianna Menciassi](https://scholar.google.com/citations?user=mI-YzHgAAAAJ&hl=en). My research focuses on machine learning and soft robot control.
 
-I was a research assistant at King's College London and Tsinghua University (2021-2022). During this period my research focused on physical model based tactile sensor simulation. Prior to that, I was an M.Sc. student in Control Systems at Imperial College (2020-2021, with distinction) and a B.Eng. student in Mechanical Engineering at Harbin Institute of Technology, Shenzhen (2016-2020, outstanding graduate.)
+I was a research assistant at King's College London and Tsinghua University (2021-2022). During this period, my research focused on physical model-based tactile sensor simulation. Before that, I was an M.Sc. student in Control Systems at Imperial College (2020-2021, with distinction) and a B.Eng. student in Mechanical Engineering at Harbin Institute of Technology, Shenzhen (2016-2020, outstanding graduate.)
 
 ## Contact
 Email: Zixi.Chen at santannapisa.it
 
 ## News
+* Nov 2023: Our paper [A Hybrid Adaptive Controller for Soft Robot Interchangeability](https://arxiv.org/abs/2307.10838) has been accepted to IEEE Robotics and Automation Letters!
+
+* Aug 2023: Our paper [TIRgel: A Visuo-Tactile Sensor with Total Internal Reflection Mechanism for External Observation and Contact Detection](https://ieeexplore.ieee.org/document/10224334) has been accepted to IEEE Robotics and Automation Letters!
+
 * Apr 2023: Our paper Plasticine Manipulation Simulation with Optical Tactile Sensing has been accepted to [ICRA 2023 ViTac Workshop: Blending Virtual and Real Visuo-Tactile Perception](https://shanluo.github.io/ViTacWorkshops/), see you in London!
 
 * Feb 2023: I give a [paper sharing](https://www.bilibili.com/video/BV12e4y1P7vU/?spm_id_from=333.999.0.0&vd_source=30f84963de0918b2a474e7e104372ace) for taichi community in Chinese about our [IEEE RA-L paper](https://ieeexplore.ieee.org/document/10017344).
