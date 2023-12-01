@@ -16,7 +16,7 @@ I was a research assistant at King's College London and Tsinghua University (202
 Email: Zixi.Chen at santannapisa.it
 
 ## News
-* Nov 2023: Our paper [A Hybrid Adaptive Controller for Soft Robot Interchangeability](https://arxiv.org/abs/2307.10838) has been accepted to IEEE Robotics and Automation Letters!
+* Nov 2023: Our paper [A Hybrid Adaptive Controller for Soft Robot Interchangeability](https://ieeexplore.ieee.org/document/10333308) has been accepted to IEEE Robotics and Automation Letters!
 
 * Aug 2023: Our paper [TIRgel: A Visuo-Tactile Sensor with Total Internal Reflection Mechanism for External Observation and Contact Detection](https://ieeexplore.ieee.org/document/10224334) has been accepted to IEEE Robotics and Automation Letters!
 
