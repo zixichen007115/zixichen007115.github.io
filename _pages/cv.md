@@ -26,7 +26,7 @@ Publications
 ======
 **Z. Chen**,  A. Le Gall, L. Mocellin, et al., [“Data Models Applied to Soft Robot Modeling and Control: A Review,”](https://arxiv.org/abs/2305.12137) in IEEE Transactions on Automation Science and Engineering (under review.)
 
-**Z. Chen**, X. Ren, M. Bernabei, et al., [“A Hybrid Adaptive Controller for Soft Robot Interchangeability,”](https://ieeexplore.ieee.org/document/10333308) in IEEE Robotics and Automation Letters (accepted.)
+**Z. Chen**, X. Ren, M. Bernabei, et al., [“A Hybrid Adaptive Controller for Soft Robot Interchangeability,”](https://ieeexplore.ieee.org/document/10333308) in IEEE Robotics and Automation Letters, vol. 9, no. 1, pp. 875-882, Jan. 2024.
 
 S. Zhang, Y. Sun, J. Shan, **Z. Chen**, et al., [“TIRgel: A Visuo-Tactile Sensor with Total Internal Reflection Mechanism for External Observation and Contact Detection,”](https://ieeexplore.ieee.org/document/10224334) in IEEE Robotics and Automation Letters, vol. 8, no. 10, pp. 6307–6314, Oct. 2023.
 
