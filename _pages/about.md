@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Ph.D. student at Scuola Superiore Sant'Anna (SSSA) under the supervision of [Prof. Cesare Stefanini](https://scholar.google.com/citations?user=4ySaHDQAAAAJ&hl=en) and [Prof. Arianna Menciassi](https://scholar.google.com/citations?user=mI-YzHgAAAAJ&hl=en). My research focuses on machine learning and soft robot control.
 
-I was a research assistant at King's College London and Tsinghua University (2021-2022). During this period, my research focused on physical model-based tactile sensor simulation. Before that, I was an M.Sc. student in Control Systems at Imperial College (2020-2021, with distinction) and a B.Eng. student in Mechanical Engineering at Harbin Institute of Technology, Shenzhen (2016-2020, outstanding graduate.)
+I was a research assistant at King's College London and Tsinghua University (2021-2022). During this period, my research focused on physical model-based tactile sensor simulation. Before that, I was an M.Sc. student in Control Systems at Imperial College (2020-2021, with distinction) and a B.Eng. student in Mechanical Engineering at Harbin Institute of Technology, Shenzhen (2016-2020, outstanding graduate)
 
 ## Contact
 Email: Zixi.Chen at santannapisa.it
