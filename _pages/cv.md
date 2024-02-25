@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Mechanical Design, Manufacturing and Automation at Harbin Institute of Technology (Shenzhen), 2016-2020
 * M.Sc. in Control Systems at Imperial College, 2020-2021
 * Ph.D in Biorobotics at Scuola Superiore Sant'Anna, 2022-2025 (expected)
 
