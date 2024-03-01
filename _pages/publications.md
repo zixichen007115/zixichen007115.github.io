@@ -16,6 +16,8 @@ Please [email me](mailto:Zixi.Chen@santannapisa.it) if you require a copy of the
 <!-- # Preprint -->
 
 # 2024
+**Z. Chen**,  M. Bernabei, V. Mainardi, et al., [“A Novel and Accurate BiLSTM Configuration Controller for Modular Soft Robots with Module Number Adaptability,”](https://arxiv.org/pdf/2401.10997.pdf) in Soft Robotics (under review.)
+
 **Z. Chen**,  F. Renda, A. Le Gall, et al., [“Data Models Applied to Soft Robot Modeling and Control: A Review,”](https://arxiv.org/abs/2305.12137) in IEEE Transactions on Automation Science and Engineering (under review.)
 
 **Z. Chen**, X. Ren, M. Bernabei, et al., [“A Hybrid Adaptive Controller for Soft Robot Interchangeability,”](https://ieeexplore.ieee.org/document/10333308) in IEEE Robotics and Automation Letters, vol. 9, no. 1, pp. 875-882, Jan. 2024.
