@@ -10,7 +10,7 @@ author_profile: true
 
 2024
 ======
-<img src="{{ site.url }}/images/2024/livorno_1.jpg" height = "150"> <img src="{{ site.url }}/images/2024/livorno_2.jpg" height = "150"> <img src="{{ site.url }}/images/2024/livorno_3.jpg" height = "150"> <img src="{{ site.url }}/images/2024/livorno_4.jpg" height = "150"> 
+<img src="{{ site.url }}/images/2024/livorno_1.jpg" height = "150"> <img src="{{ site.url }}/images/2024/livorno_2.jpg" height = "150"> <img src="{{ site.url }}/images/2024/livorno_3.jpg" height = "150"> <img src="{{ site.url }}/images/2024/livorno_4.jpg" height = "150"> <img src="{{ site.url }}/images/2024/pontedera_1.jpg" height = "150"> <img src="{{ site.url }}/images/2024/pontedera_2.jpg" height = "150"> <img src="{{ site.url }}/images/2024/pontedera_3.jpg" height = "150"> <img src="{{ site.url }}/images/2024/pontedera_4.jpg" height = "150"> <img src="{{ site.url }}/images/2024/viareggio_1.jpg" height = "150"> <img src="{{ site.url }}/images/2024/viareggio_2.jpg" height = "150"> <img src="{{ site.url }}/images/2024/viareggio_3.jpg" height = "150"> <img src="{{ site.url }}/images/2024/viareggio_4.jpg" height = "150"> <img src="{{ site.url }}/images/2024/viareggio_5.jpg" height = "150">
 
 
 2023
