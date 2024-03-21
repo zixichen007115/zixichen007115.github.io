@@ -23,7 +23,7 @@ Work experience
 
 Publications
 ======
-**Z. Chen**,  F. Renda, A. Le Gall, et al., [“Data-driven Methods Applied to Soft Robot Modeling and Control: A Review,”](https://arxiv.org/abs/2305.12137) in IEEE Transactions on Automation Science and Engineering (accepted)
+**Z. Chen**,  F. Renda, A. Le Gall, et al., [“Data-driven Methods Applied to Soft Robot Modeling and Control: A Review,”](https://ieeexplore.ieee.org/document/10477253) in IEEE Transactions on Automation Science and Engineering (accepted)
 
 **Z. Chen**, X. Ren, M. Bernabei, et al., [“A Hybrid Adaptive Controller for Soft Robot Interchangeability,”](https://ieeexplore.ieee.org/document/10333308) in IEEE Robotics and Automation Letters, vol. 9, no. 1, pp. 875-882, Jan. 2024.
 
