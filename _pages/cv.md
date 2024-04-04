@@ -36,8 +36,8 @@ S. Zhang, **Z. Chen**, Y. Gao, et al., [“Hardware Technology of Vision-Based T
 
 Peer review records
 ======
+IEEE Transactions on Robotics (T-RO)
+
 IEEE Transactions on Medical Robotics and Bionics (T-MRB)
 
 IEEE International Conference on Robotics and Automation (ICRA)
-
-IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)
