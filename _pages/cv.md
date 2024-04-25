@@ -41,3 +41,5 @@ IEEE Transactions on Robotics (T-RO)
 IEEE Transactions on Medical Robotics and Bionics (T-MRB)
 
 IEEE International Conference on Robotics and Automation (ICRA)
+
+IEEE International Conference on Intelligent Robots and Systems (IROS)
