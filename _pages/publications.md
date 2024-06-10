@@ -16,7 +16,9 @@ Please [email me](mailto:Zixi.Chen@santannapisa.it) if you require a copy of the
 <!-- # Preprint -->
 
 # 2024
-**Z. Chen**,  M. Bernabei, V. Mainardi, et al., [“A Novel and Accurate BiLSTM Configuration Controller for Modular Soft Robots with Module Number Adaptability,”](https://arxiv.org/pdf/2401.10997.pdf) in Soft Robotics (under review.)
+**Z. Chen**,  X. Ren, G. Ciuti, et al., [“Data-driven Explainable Controller for Soft Robots based on Recurrent Neural Networks,”](https://www.arxiv.org/abs/2406.04094) (under review.)
+
+**Z. Chen**,  M. Bernabei, V. Mainardi, et al., [“A Novel and Accurate BiLSTM Configuration Controller for Modular Soft Robots with Module Number Adaptability,”](https://arxiv.org/pdf/2401.10997.pdf) (under review.)
 
 **Z. Chen**,  F. Renda, A. Le Gall, et al., [“Data-driven Methods Applied to Soft Robot Modeling and Control: A Review,”](https://ieeexplore.ieee.org/document/10477253) in IEEE Transactions on Automation Science and Engineering (accepted)
 
