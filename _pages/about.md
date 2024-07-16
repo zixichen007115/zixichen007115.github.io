@@ -13,7 +13,7 @@ I am currently a Ph.D. student at Scuola Superiore Sant'Anna (SSSA) under the su
 I was a research assistant at King's College London and Tsinghua University (2021-2022). During this period, my research focused on physical model-based tactile sensor simulation. Before that, I was an M.Sc. student in Control Systems at Imperial College (2020-2021, with distinction.)
 
 ## Contact
-Email: Zixi.Chen at santannapisa.it
+Email: Zixi.Chen@santannapisa.it
 
 ## News
 * Jun 2024: We will organize a [soft robot adaptability workshop](https://sites.google.com/view/sft-front) at [IROS 2024](https://iros2024-abudhabi.org/), see you in Abu Dhabi!
