@@ -16,6 +16,8 @@ I was a research assistant at King's College London and Tsinghua University (202
 Email: Zixi.Chen at santannapisa.it
 
 ## News
+* Jun 2024: We will organize a [soft robot adaptability workshop](https://sites.google.com/view/sft-front) at [IROS2024](https://iros2024-abudhabi.org/), see you in Abu Dhabi!
+
 * Mar 2024: Our paper [Data-driven Methods Applied to Soft Robot Modeling and Control: A Review](https://ieeexplore.ieee.org/document/10477253) has been accepted to IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)!
 
 * Nov 2023: Our paper [A Hybrid Adaptive Controller for Soft Robot Interchangeability](https://ieeexplore.ieee.org/document/10333308) has been accepted to IEEE Robotics and Automation Letters (IEEE RA-L)!
