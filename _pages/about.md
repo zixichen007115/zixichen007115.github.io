@@ -16,7 +16,7 @@ I was a research assistant at King's College London and Tsinghua University (202
 Email: [Zixi.Chen@santannapisa.it](mailto:Zixi.Chen@santannapisa.it)
 
 ## News
-* Sep 2023: Our paper [Simulation of Optical Tactile Sensors Supporting Slip and Rotation using Path Tracing and IMPM]([https://ieeexplore.ieee.org/document/10017344](https://arxiv.org/abs/2405.02914)) has been accepted to IEEE Robotics and Automation Letters (IEEE RA-L)! I cosupervised the first author, Zirong, on this work. Congratulations, Zirong!
+* Sep 2023: Our paper [Simulation of Optical Tactile Sensors Supporting Slip and Rotation using Path Tracing and IMPM](https://arxiv.org/abs/2405.02914) has been accepted to IEEE Robotics and Automation Letters (IEEE RA-L)! I cosupervised the first author, Zirong, on this work. Congratulations, Zirong!
 
 * Jun 2024: We will organize a [soft robot adaptability workshop](https://sites.google.com/view/sft-front) at [IROS 2024](https://iros2024-abudhabi.org/), see you in Abu Dhabi!
 
