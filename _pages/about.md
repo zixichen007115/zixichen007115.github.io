@@ -16,6 +16,8 @@ I was a research assistant at King's College London and Tsinghua University (202
 Email: [Zixi.Chen@santannapisa.it](mailto:Zixi.Chen@santannapisa.it)
 
 ## News
+* Nov 2024: Our paper [A Novel and Accurate BiLSTM Configuration Controller for Modular Soft Robots with Module Number Adaptability](https://arxiv.org/abs/2401.10997) has been accepted to Soft Robotics (SoRo)!
+
 * Sep 2023: Our paper [Simulation of Optical Tactile Sensors Supporting Slip and Rotation using Path Tracing and IMPM](https://ieeexplore.ieee.org/document/10720429) has been accepted to IEEE Robotics and Automation Letters (IEEE RA-L)! I cosupervised the first author, Zirong, on this work. Congratulations, Zirong!
 
 * Jun 2024: We will organize a [soft robot adaptability workshop](https://sites.google.com/view/sft-front) at [IROS 2024](https://iros2024-abudhabi.org/), see you in Abu Dhabi!
