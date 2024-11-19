@@ -23,16 +23,8 @@ Work experience
 
 Publications
 ======
-**Z. Chen**,  F. Renda, A. Le Gall, et al., [“Data-driven Methods Applied to Soft Robot Modeling and Control: A Review,”](https://ieeexplore.ieee.org/document/10477253) in IEEE Transactions on Automation Science and Engineering (accepted)
 
-**Z. Chen**, X. Ren, M. Bernabei, et al., [“A Hybrid Adaptive Controller for Soft Robot Interchangeability,”](https://ieeexplore.ieee.org/document/10333308) in IEEE Robotics and Automation Letters, vol. 9, no. 1, pp. 875-882, Jan. 2024.
-
-S. Zhang, Y. Sun, J. Shan, **Z. Chen**, et al., [“TIRgel: A Visuo-Tactile Sensor with Total Internal Reflection Mechanism for External Observation and Contact Detection,”](https://ieeexplore.ieee.org/document/10224334) in IEEE Robotics and Automation Letters, vol. 8, no. 10, pp. 6307–6314, Oct. 2023.
-
-**Z. Chen**, S. Zhang, S. Luo, et al., [“Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors,”](https://ieeexplore.ieee.org/document/10017344) in IEEE Robotics and Automation Letters, vol. 8, no. 3, pp. 1239–1246, Mar. 2023.
-
-S. Zhang, **Z. Chen**, Y. Gao, et al., [“Hardware Technology of Vision-Based Tactile Sensor: A Review,”](https://ieeexplore.ieee.org/document/9911183) in IEEE Sensors Journal, vol. 22, no. 22, pp. 21410-21427, Nov. 2022.
-
+Please refer to the 'Publications' page
 
 Peer review records
 ======
