@@ -16,7 +16,7 @@ Please [email me](mailto:Zixi.Chen@santannapisa.it) if you require a copy of the
 <!-- # Preprint -->
 
 # 2024
-**Z. Chen**,  Q. Guan, J. Hughes, et al., [“S2C2A: A Flexible Task Space Planning and Control Strategy for Modular Soft Robot Arms,”](https://www.arxiv.org/abs/2410.03483) (under review.)
+<!--**Z. Chen**,  Q. Guan, J. Hughes, et al., [“S2C2A: A Flexible Task Space Planning and Control Strategy for Modular Soft Robot Arms,”](https://www.arxiv.org/abs/2410.03483) (under review.)-->
 
 **Z. Chen**,  M. Bernabei, V. Mainardi, et al., [“A Novel and Accurate BiLSTM Configuration Controller for Modular Soft Robots with Module Number Adaptability,”](https://arxiv.org/pdf/2401.10997.pdf) in Soft Robotics (accepted)
 
