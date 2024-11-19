@@ -24,7 +24,7 @@ Work experience
 Publications
 ======
 
-Please refer to the 'Publications' page
+Please refer to the [Publications](https://zixichen007115.github.io/publications/) page
 
 Peer review records
 ======
