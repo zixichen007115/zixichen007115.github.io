@@ -22,6 +22,8 @@ Please [email me](mailto:Zixi.Chen@santannapisa.it) if you require a copy of the
 
 Z. Shen, Y. Sun, S. Zhang, **Z. Chen**, et al., [“Simulation of Optical Tactile Sensors Supporting Slip and Rotation Using Path Tracing and IMPM,”](https://ieeexplore.ieee.org/document/10720429) in IEEE Robotics and Automation Letters, vol. 9, no. 12, pp. 11218-11225, Dec. 2024.
 
+A. Le Gall, T. Dangel, **Z. Chen**, et al., [“An origami-based fluidic actuator for Minimally Invasive Surgery,”](https://ieeexplore.ieee.org/abstract/document/10652973) in ACTUATOR 2024; International Conference and Exhibition on New Actuator Systems and Applications, pp. 260-262, Jun. 2024.
+
 **Z. Chen**,  F. Renda, A. Le Gall, et al., [“Data-driven Methods Applied to Soft Robot Modeling and Control: A Review,”](https://ieeexplore.ieee.org/document/10477253) in IEEE Transactions on Automation Science and Engineering (accepted)
 
 **Z. Chen**, X. Ren, M. Bernabei, et al., [“A Hybrid Adaptive Controller for Soft Robot Interchangeability,”](https://ieeexplore.ieee.org/document/10333308) in IEEE Robotics and Automation Letters, vol. 9, no. 1, pp. 875-882, Jan. 2024.
