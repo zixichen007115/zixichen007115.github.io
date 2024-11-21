@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Biorobotics at Scuola Superiore Sant'Anna, 2022-2025 (expected)
+* Exchange Ph.D. student at EPFL, Aug-Oct, 2024
 * M.Sc. in Control Systems at Imperial College, 2020-2021
 
 Work experience
