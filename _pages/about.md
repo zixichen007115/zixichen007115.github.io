@@ -16,11 +16,13 @@ I was an exchange student at EPFL (Aug.-Oct., 2024) and a research assistant at 
 Email: [Zixi.Chen@santannapisa.it](mailto:Zixi.Chen@santannapisa.it)
 
 ## News
+* May 2025: We will organize a [soft robot practical application workshop](https://sites.google.com/view/sft-front2) at [IROS 2025](https://www.iros25.org/), see you in Hangzhou!
+
 * Nov 2024: Our paper [A Novel and Accurate BiLSTM Configuration Controller for Modular Soft Robots with Module Number Adaptability](https://arxiv.org/abs/2401.10997) has been accepted to Soft Robotics (SoRo)!
 
 * Sep 2023: Our paper [Simulation of Optical Tactile Sensors Supporting Slip and Rotation using Path Tracing and IMPM](https://ieeexplore.ieee.org/document/10720429) has been accepted to IEEE Robotics and Automation Letters (IEEE RA-L)! I cosupervised the first author, Zirong, on this work. Congratulations, Zirong!
 
-* Jun 2024: We will organize a [soft robot adaptability workshop](https://sites.google.com/view/sft-front) at [IROS 2024](https://iros2024-abudhabi.org/), see you in Abu Dhabi!
+* Jun 2024: We will organize a [soft robot adaptability workshop](https://sites.google.com/view/sft-front1) at [IROS 2024](https://iros2024-abudhabi.org/), see you in Abu Dhabi!
 
 * Mar 2024: Our paper [Data-driven Methods Applied to Soft Robot Modeling and Control: A Review](https://ieeexplore.ieee.org/document/10477253) has been accepted to IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)!
 
