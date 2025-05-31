@@ -16,9 +16,10 @@ I was an exchange student at EPFL (Aug.-Oct., 2024) and a research assistant at 
 Email: [Zixi.Chen@santannapisa.it](mailto:Zixi.Chen@santannapisa.it)
 
 ## News
-#2025
+**2025**
 * May: We will organize a [soft robot practical application workshop](https://sites.google.com/view/sft-front2) at [IROS 2025](https://www.iros25.org/), see you in Hangzhou!
-#2024
+
+**2024**
 * Nov: Our paper [A Novel and Accurate BiLSTM Configuration Controller for Modular Soft Robots with Module Number Adaptability](https://arxiv.org/abs/2401.10997) has been accepted to Soft Robotics (SoRo)!
 
 * Sep: Our paper [Simulation of Optical Tactile Sensors Supporting Slip and Rotation using Path Tracing and IMPM](https://ieeexplore.ieee.org/document/10720429) has been accepted to IEEE Robotics and Automation Letters (IEEE RA-L)! I cosupervised the first author, Zirong, on this work. Congratulations, Zirong!
@@ -27,7 +28,7 @@ Email: [Zixi.Chen@santannapisa.it](mailto:Zixi.Chen@santannapisa.it)
 
 * Mar: Our paper [Data-driven Methods Applied to Soft Robot Modeling and Control: A Review](https://ieeexplore.ieee.org/document/10477253) has been accepted to IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)!
 
-#2023
+**2023**
 * Nov: Our paper [A Hybrid Adaptive Controller for Soft Robot Interchangeability](https://ieeexplore.ieee.org/document/10333308) has been accepted to IEEE Robotics and Automation Letters (IEEE RA-L)!
 
 * Aug: Our paper [TIRgel: A Visuo-Tactile Sensor with Total Internal Reflection Mechanism for External Observation and Contact Detection](https://ieeexplore.ieee.org/document/10224334) has been accepted to IEEE Robotics and Automation Letters (IEEE RA-L)!
@@ -38,5 +39,5 @@ Email: [Zixi.Chen@santannapisa.it](mailto:Zixi.Chen@santannapisa.it)
 
 * Jan: Our paper [Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors](https://ieeexplore.ieee.org/document/10017344) has been accepted to IEEE Robotics and Automation Letters (IEEE RA-L)! Thank Dr. Shan Luo and Dr. Bin Fang for their supervision during this work! 
 
-#2022
+**2022**
 * Oct: Our paper [Hardware Technology of Vision-Based Tactile Sensor: A Review](https://ieeexplore.ieee.org/document/9911183) has been accepted to IEEE Sensors Journal!
