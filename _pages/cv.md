@@ -31,9 +31,11 @@ Peer review records
 ======
 IEEE Transactions on Robotics (T-RO)
 
-IEEE Transactions on Medical Robotics and Bionics (T-MRB)
+Soft Robotics (SoRo)
 
 IEEE Robotics and Automation Letters (RA-L)
+
+IEEE Transactions on Medical Robotics and Bionics (T-MRB)
 
 IEEE International Conference on Robotics and Automation (ICRA)
 
