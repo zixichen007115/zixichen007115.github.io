@@ -31,6 +31,8 @@ Peer review records
 ======
 IEEE Transactions on Robotics (T-RO)
 
+IEEE Transactions on Automation Science and Engineering (T-ASE)
+
 Soft Robotics (SoRo)
 
 IEEE Robotics and Automation Letters (RA-L)
