@@ -34,6 +34,8 @@ Five Respective Publications
 
 **Z. Chen**, S. Zhang, S. Luo, et al., [“Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors,”](https://ieeexplore.ieee.org/document/10017344) in IEEE Robotics and Automation Letters, vol. 8, no. 3, pp. 1239–1246, Mar. 2023.
 
+Please refer to the [Publications](https://zixichen007115.github.io/publications/) page for the complete publication list.
+
 Peer Review Records
 ======
 IEEE Transactions on Robotics (T-RO)
