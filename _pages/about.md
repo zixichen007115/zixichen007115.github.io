@@ -17,9 +17,9 @@ Email: [Zixi.Chen@santannapisa.it](mailto:Zixi.Chen@santannapisa.it)
 
 ## News
 **2025**
-* Jun: Our paper [A Survey on Soft Robot Adaptability: Implementations, Applications, and Prospects](https://arxiv.org/abs/2410.03483) has been accepted to IEEE Robotics & Automation Magazine (RAM)! This review summarizes the key discussions and insights from our [Soft Robot Adaptability Workshop](https://sites.google.com/view/sft-front) held at IROS 2024. Thank all workshop organizers and speakers for your valuable contributions!
+* Jun: Our paper [A Survey on Soft Robot Adaptability: Implementations, Applications, and Prospects](https://arxiv.org/abs/2506.19397) has been accepted to IEEE Robotics & Automation Magazine (RAM)! This review summarizes the key discussions and insights from our [Soft Robot Adaptability Workshop](https://sites.google.com/view/sft-front) held at IROS 2024. Thank all workshop organizers and speakers for your valuable contributions!
 
-* Jun: Our paper [A Versatile Neural Network Configuration Space Planning and Control Strategy for Modular Soft Robot Arms](https://arxiv.org/abs/2410.03483) has been accepted to IEEE Transactions on Robotics (T-RO)!
+* Jun: Our paper [A Versatile Neural Network Configuration Space Planning and Control Strategy for Modular Soft Robot Arms](https://ieeexplore.ieee.org/document/11049035) has been accepted to IEEE Transactions on Robotics (T-RO)!
 
 * May: We will organize a [Soft Robot Practical Application Workshop](https://sites.google.com/view/sft-front) at IROS 2025, see you in Hangzhou!
 
