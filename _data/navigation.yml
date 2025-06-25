@@ -9,6 +9,9 @@ main:
   - title: "Leisure time"
     url: /leisure_time/
 
+  - title: "IROS 2025 workshop"
+    url: /iros2025ws/
+
 #  - title: "Talks"
 #    url: /talks/    
 
