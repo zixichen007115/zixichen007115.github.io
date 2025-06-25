@@ -16,11 +16,11 @@ Please [email me](mailto:Zixi.Chen@santannapisa.it) if you require a copy of the
 <!-- # Preprint -->
 
 # 2025
-**Z. Chen**, D. Wu, Q. Guan, D. Hardman, F. Renda, J. Hughes, T. G. Thuruthe, C. Della Santina, B. Mazzolai, H. Zhao, and C. Stefanini, [“A Survey on Soft Robot Adaptability: Implementations, Applications, and Prospects,”](https://arxiv.org/abs/2405.07237) in IEEE Robotics & Automation Magazine (accepted)
+**Z. Chen**, D. Wu, Q. Guan, D. Hardman, F. Renda, J. Hughes, T. G. Thuruthe, C. Della Santina, B. Mazzolai, H. Zhao, and C. Stefanini, [“A Survey on Soft Robot Adaptability: Implementations, Applications, and Prospects,”](https://arxiv.org/abs/2506.19397) in IEEE Robotics & Automation Magazine (accepted)
 
 Y. Sun, S. Zhang, **Z. Chen**, et al., [“Soft Contact Simulation and Manipulation Learning of Deformable Objects with Vision-based Tactile Sensor,”](https://arxiv.org/abs/2410.03483) in IEEE Transactions on Automation Science and Engineering (accepted)
 
-**Z. Chen**, Q. Guan, J. Hughes, et al., [“A Versatile Neural Network Configuration Space Planning and Control Strategy for Modular Soft Robot Arms,”](https://arxiv.org/abs/2405.07237) in IEEE Transactions on Robotics (accepted)
+**Z. Chen**, Q. Guan, J. Hughes, et al., [“A Versatile Neural Network Configuration Space Planning and Control Strategy for Modular Soft Robot Arms,”](https://ieeexplore.ieee.org/document/11049035) in IEEE Transactions on Robotics (accepted)
 
 **Z. Chen**,  F. Renda, A. Le Gall, et al., [“Data-driven Methods Applied to Soft Robot Modeling and Control: A Review,”](https://ieeexplore.ieee.org/document/10477253) in IEEE Transactions on Automation Science and Engineering, vol. 22, no. 1, pp. 2241-2256, Feb. 2025.
 
