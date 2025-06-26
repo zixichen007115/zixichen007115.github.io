@@ -22,7 +22,7 @@ Work experience
   * Research about optical tactile sensors, including sensor simulation, Sim2Real transfer learning, and reinforcement learning
   * Supervisor: Dr. Shan Luo and Dr. Bin Fang
 
-Five Respective Publications
+Five Representative Publications
 ======
 **Z. Chen**, Q. Guan, J. Hughes, et al., [“A Versatile Neural Network Configuration Space Planning and Control Strategy for Modular Soft Robot Arms,”](https://ieeexplore.ieee.org/document/11049035) in IEEE Transactions on Robotics (accepted)
 
@@ -36,7 +36,7 @@ Five Respective Publications
 
 Please refer to the [Publications](https://zixichen007115.github.io/publications/) page for the complete publication list.
 
-Five Respective Peer Review Records
+Five Representative Peer Review Records
 ======
 IEEE Transactions on Robotics (T-RO)
 
