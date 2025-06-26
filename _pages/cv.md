@@ -36,18 +36,15 @@ Five Respective Publications
 
 Please refer to the [Publications](https://zixichen007115.github.io/publications/) page for the complete publication list.
 
-Peer Review Records
+Five Respective Peer Review Records
 ======
 IEEE Transactions on Robotics (T-RO)
 
 IEEE Transactions on Automation Science and Engineering (T-ASE)
 
-Soft Robotics (SoRo)
+IEEE Transactions on Industrial Electronics (TIE)
 
-IEEE Robotics and Automation Letters (RA-L)
+Soft Robotics (SoRo)
 
 IEEE Transactions on Medical Robotics and Bionics (T-MRB)
 
-IEEE International Conference on Robotics and Automation (ICRA)
-
-IEEE International Conference on Intelligent Robots and Systems (IROS)
