@@ -21,7 +21,7 @@ Email: [Zixi.Chen@santannapisa.it](mailto:Zixi.Chen@santannapisa.it)
 
 * Jun: Our paper [A Versatile Neural Network Configuration Space Planning and Control Strategy for Modular Soft Robot Arms](https://ieeexplore.ieee.org/document/11049035) has been accepted to IEEE Transactions on Robotics (T-RO)!
 
-* May: We will organize a [Soft Robot Practical Application Workshop](https://sites.google.com/view/sft-front) at IROS 2025, see you in Hangzhou!
+* May: We will organize a [Soft Robot Practical Application Workshop](https://zixichen007115.github.io/iros2025ws/) at IROS 2025, see you in Hangzhou!
 
 **2024**
 * Nov: Our paper [A Novel and Accurate BiLSTM Configuration Controller for Modular Soft Robots with Module Number Adaptability](https://arxiv.org/abs/2401.10997) has been accepted to Soft Robotics (SoRo)!
