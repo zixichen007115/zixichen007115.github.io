@@ -39,7 +39,9 @@ Five Representative Publications
 Academic Service
 ======
 I am the main organizer of the serial workshops 'SOFT Frontiers':
+
 IROS 2024 ['The SOFT Frontier: Adaptive technologies in soft robotics'](https://sites.google.com/view/sft-front/iros-2024)
+
 IROS 2025 ['The SOFT Frontier 2: Practical applications in soft robotics'](https://sites.google.com/view/sft-front/iros-2025)
 
 Five Representative Peer Review Records
