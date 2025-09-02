@@ -36,6 +36,12 @@ Five Representative Publications
 
 **Z. Chen**, S. Zhang, S. Luo, et al., [“Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors,”](https://ieeexplore.ieee.org/document/10017344) in IEEE Robotics and Automation Letters, vol. 8, no. 3, pp. 1239–1246, 2023.
 
+Academic Service
+======
+I am the main organizer of the serial workshops 'SOFT Frontiers':
+IROS 2024 ['The SOFT Frontier: Adaptive technologies in soft robotics'](https://sites.google.com/view/sft-front/iros-2024)
+IROS 2025 ['The SOFT Frontier 2: Practical applications in soft robotics'](https://sites.google.com/view/sft-front/iros-2025)
+
 Five Representative Peer Review Records
 ======
 IEEE Transactions on Robotics (T-RO)
@@ -47,4 +53,5 @@ IEEE Transactions on Industrial Electronics (TIE)
 Soft Robotics (SoRo)
 
 IEEE Transactions on Medical Robotics and Bionics (T-MRB)
+
 
