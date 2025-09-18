@@ -16,6 +16,8 @@ Please [email me](mailto:Zixi.Chen@santannapisa.it) if you require a copy of the
 <!-- # Preprint -->
 
 # 2025
+**Z. Chen**, X. Ren, Y. Hamamatsu, et al., [“AdapJ: An Adaptive Extended Jacobian Controller for Soft Manipulators,”](https://arxiv.org/abs/2406.04094) in IEEE/ASME Transactions on Mechatronics, 2025. (accepted)
+
 **Z. Chen**, D. Wu, Q. Guan, D. Hardman, F. Renda, J. Hughes, T. G. Thuruthe, C. Della Santina, B. Mazzolai, H. Zhao, and C. Stefanini, [“A Survey on Soft Robot Adaptability: Implementations, Applications, and Prospects,”](https://ieeexplore.ieee.org/document/11078366) in IEEE Robotics & Automation Magazine (accepted)
 
 Y. Sun, S. Zhang, **Z. Chen**, et al., [“Soft Contact Simulation and Manipulation Learning of Deformable Objects with Vision-based Tactile Sensor,”](https://ieeexplore.ieee.org/document/11048656) in IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 17618-17630, 2025.
