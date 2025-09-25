@@ -13,7 +13,7 @@ I am currently a Ph.D. student at Scuola Superiore Sant'Anna (SSSA) under the su
 I was an exchange student at EPFL (Aug.-Oct., 2024) and a research assistant at King's College London and Tsinghua University (2021-2022). Before my Ph.D., my research focused on physical model-based tactile sensor simulation. 
 
 ## Contact
-Email: [Zixi.Chen@santannapisa.it](mailto:Zixi.Chen@santannapisa.it) / [czx980730@gmail.com](mailto:czx980730@gmail.com)
+Email: Zixi.Chen at santannapisa.it / czx980730 at gmail.com
 
 ## News
 **2025**
