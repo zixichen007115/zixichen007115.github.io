@@ -9,8 +9,6 @@ My citation profile can be found in [Google Scholar](https://scholar.google.com/
 <!-- * Our publication in the area of key generation from wireless channels is summarized at [here](/keygen/keygen-pub/)
 * Our publication in the area of radio frequency fingerprinting identification is summarized at [here](/rffi/rffi-pub/) -->
 
-Please [email me](mailto:Zixi.Chen@santannapisa.it) if you require a copy of the paper.
-
 <!-- <sup>*</sup> denotes corresponding author. -->
 
 <!-- # Preprint -->
