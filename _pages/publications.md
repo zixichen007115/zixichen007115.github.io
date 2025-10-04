@@ -14,7 +14,7 @@ My citation profile can be found in [Google Scholar](https://scholar.google.com/
 <!-- # Preprint -->
 
 # 2025
-**Z. Chen**, X. Ren, Y. Hamamatsu, et al., [“AdapJ: An Adaptive Extended Jacobian Controller for Soft Manipulators,”](https://arxiv.org/abs/2406.04094) in IEEE/ASME Transactions on Mechatronics, 2025. (accepted)
+**Z. Chen**, X. Ren, Y. Hamamatsu, et al., [“AdapJ: An Adaptive Extended Jacobian Controller for Soft Manipulators,”](https://ieeexplore.ieee.org/document/11192239) in IEEE/ASME Transactions on Mechatronics, 2025. (accepted)
 
 **Z. Chen**, D. Wu, Q. Guan, D. Hardman, F. Renda, J. Hughes, T. G. Thuruthe, C. Della Santina, B. Mazzolai, H. Zhao, and C. Stefanini, [“A Survey on Soft Robot Adaptability: Implementations, Applications, and Prospects,”](https://ieeexplore.ieee.org/document/11078366) in IEEE Robotics & Automation Magazine (accepted)
 
