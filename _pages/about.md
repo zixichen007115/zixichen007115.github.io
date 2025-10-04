@@ -17,7 +17,7 @@ Email: Zixi.Chen at santannapisa.it / czx980730 at gmail.com
 
 ## News
 **2025**
-* Sep: [Publication] Our paper [AdapJ: An Adaptive Extended Jacobian Controller for Soft Manipulators](https://arxiv.org/abs/2406.04094) has been accepted to IEEE/ASME Transactions on Mechatronics (TMECH)!
+* Sep: [Publication] Our paper [AdapJ: An Adaptive Extended Jacobian Controller for Soft Manipulators](https://ieeexplore.ieee.org/document/11192239) has been accepted to IEEE/ASME Transactions on Mechatronics (TMECH)!
 
 * Jun: [Publication] Our paper [A Survey on Soft Robot Adaptability: Implementations, Applications, and Prospects](https://ieeexplore.ieee.org/document/11078366) has been accepted to IEEE Robotics & Automation Magazine (RAM)! This review summarizes the key discussions and insights from our [Soft Robot Adaptability Workshop](https://sites.google.com/view/sft-front) held at IROS 2024. Thank all workshop organizers and speakers for your valuable contributions!
 
