@@ -28,7 +28,7 @@ Five Representative Publications
 
 **Z. Chen**, Q. Guan, J. Hughes, et al., [“A Versatile Neural Network Configuration Space Planning and Control Strategy for Modular Soft Robot Arms,”](https://ieeexplore.ieee.org/document/11049035) in IEEE Transactions on Robotics, vol. 41, pp. 4269-4282, 2025.
 
-**Z. Chen**, X. Ren, Y. Hamamatsu, et al., [“AdapJ: An Adaptive Extended Jacobian Controller for Soft Manipulators,”](https://arxiv.org/abs/2406.04094) in IEEE/ASME Transactions on Mechatronics, 2025. (accepted)
+**Z. Chen**, X. Ren, Y. Hamamatsu, et al., [“AdapJ: An Adaptive Extended Jacobian Controller for Soft Manipulators,”](https://ieeexplore.ieee.org/document/11192239) in IEEE/ASME Transactions on Mechatronics, 2025. (accepted)
 
 **Z. Chen**,  F. Renda, A. Le Gall, et al., [“Data-driven Methods Applied to Soft Robot Modeling and Control: A Review,”](https://ieeexplore.ieee.org/document/10477253) in IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 2241-2256, 2025.
 
