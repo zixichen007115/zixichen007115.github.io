@@ -13,10 +13,12 @@ I am currently a Ph.D. student at Scuola Superiore Sant'Anna (SSSA) under the su
 I was an exchange student at EPFL (Aug.-Oct., 2024) and a research assistant at King's College London and Tsinghua University (2021-2022). Before my Ph.D., my research focused on physical model-based tactile sensor simulation. 
 
 ## Contact
-Email: Zixi.Chen at santannapisa.it / czx980730 at gmail.com
+Email: zc.academic at gmail.com
 
 ## News
 **2025**
+* Oct: [Graduation] I was awarded a PhD in Biorobotics with distinction from the Biorobotics Institute, Scuola Superiore Sant’Anna.
+
 * Sep: [Publication] Our paper [AdapJ: An Adaptive Extended Jacobian Controller for Soft Manipulators](https://ieeexplore.ieee.org/document/11192239) has been accepted to IEEE/ASME Transactions on Mechatronics (TMECH)!
 
 * Jun: [Publication] Our paper [A Survey on Soft Robot Adaptability: Implementations, Applications, and Prospects](https://ieeexplore.ieee.org/document/11078366) has been accepted to IEEE Robotics & Automation Magazine (RAM)! This review summarizes the key discussions and insights from our [Soft Robot Adaptability Workshop](https://sites.google.com/view/sft-front) held at IROS 2024. Thank all workshop organizers and speakers for your valuable contributions!
