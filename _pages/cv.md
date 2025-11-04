@@ -34,16 +34,16 @@ Five Representative Publications
 
 **Z. Chen**, D. Wu, Q. Guan, D. Hardman, F. Renda, J. Hughes, T. G. Thuruthe, C. Della Santina, B. Mazzolai, H. Zhao, and C. Stefanini, [“A Survey on Soft Robot Adaptability: Implementations, Applications, and Prospects,”](https://ieeexplore.ieee.org/document/11078366) in IEEE Robotics & Automation Magazine (accepted)
 
-**Z. Chen**,  M. Bernabei, V. Mainardi, et al., [“A Novel and Accurate BiLSTM Configuration Controller for Modular Soft Robots with Module Number Adaptability,”](https://arxiv.org/pdf/2401.10997.pdf) in Soft Robotics (accepted)
+**Z. Chen**,  M. Bernabei, V. Mainardi, et al., [“A Novel and Accurate BiLSTM Configuration Controller for Modular Soft Robots with Module Number Adaptability,”](https://arxiv.org/abs/2401.10997) in Soft Robotics (accepted)
 
 
 Academic Service
 ======
 I am the main organizer of the serial workshops 'SOFT Frontiers':
 
-IROS 2024 ['The SOFT Frontier: Adaptive technologies in soft robotics'](https://sites.google.com/view/sft-front/iros-2024)
-
 IROS 2025 ['The SOFT Frontier 2: Practical applications in soft robotics'](https://sites.google.com/view/sft-front/iros-2025)
+
+IROS 2024 ['The SOFT Frontier: Adaptive technologies in soft robotics'](https://sites.google.com/view/sft-front/iros-2024)
 
 Five Representative Peer Review Records
 ======
