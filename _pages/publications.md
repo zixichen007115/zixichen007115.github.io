@@ -25,7 +25,7 @@ Y. Sun, S. Zhang, **Z. Chen**, et al., [“Soft Contact Simulation and Manipulat
 **Z. Chen**,  F. Renda, A. Le Gall, et al., [“Data-driven Methods Applied to Soft Robot Modeling and Control: A Review,”](https://ieeexplore.ieee.org/document/10477253) in IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 2241-2256, 2025.
 
 # 2024
-**Z. Chen**,  M. Bernabei, V. Mainardi, et al., [“A Novel and Accurate BiLSTM Configuration Controller for Modular Soft Robots with Module Number Adaptability,”](https://arxiv.org/pdf/2401.10997.pdf) in Soft Robotics (accepted)
+**Z. Chen**,  M. Bernabei, V. Mainardi, et al., [“A Novel and Accurate BiLSTM Configuration Controller for Modular Soft Robots with Module Number Adaptability,”](https://arxiv.org/abs/2401.10997) in Soft Robotics (accepted)
 
 Z. Shen, Y. Sun, S. Zhang, **Z. Chen**, et al., [“Simulation of Optical Tactile Sensors Supporting Slip and Rotation Using Path Tracing and IMPM,”](https://ieeexplore.ieee.org/document/10720429) in IEEE Robotics and Automation Letters, vol. 9, no. 12, pp. 11218-11225, 2024.
 
