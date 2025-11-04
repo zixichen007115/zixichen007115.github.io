@@ -21,7 +21,7 @@ Email: zc.academic at gmail.com
 
 * Sep: [Publication] Our paper [AdapJ: An Adaptive Extended Jacobian Controller for Soft Manipulators](https://ieeexplore.ieee.org/document/11192239) has been accepted to IEEE/ASME Transactions on Mechatronics (TMECH)!
 
-* Jun: [Publication] Our paper [A Survey on Soft Robot Adaptability: Implementations, Applications, and Prospects](https://ieeexplore.ieee.org/document/11078366) has been accepted to IEEE Robotics & Automation Magazine (RAM)! This review summarizes the key discussions and insights from our [Soft Robot Adaptability Workshop](https://sites.google.com/view/sft-front) held at IROS 2024. Thank all workshop organizers and speakers for your valuable contributions!
+* Jun: [Publication] Our paper [A Survey on Soft Robot Adaptability: Implementations, Applications, and Prospects](https://ieeexplore.ieee.org/document/11078366) has been accepted to IEEE Robotics & Automation Magazine (RAM)! This review summarizes the key discussions and insights from our [Soft Robot Adaptability Workshop](https://sites.google.com/view/sft-front/iros-2024) held at IROS 2024. Thank all workshop organizers and speakers for your valuable contributions!
 
 * Jun: [Publication] Our paper [A Versatile Neural Network Configuration Space Planning and Control Strategy for Modular Soft Robot Arms](https://ieeexplore.ieee.org/document/11049035) has been accepted to IEEE Transactions on Robotics (T-RO)!
 
