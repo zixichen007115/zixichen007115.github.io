@@ -20,7 +20,7 @@ Work experience
 * Nov. 2021- Sep. 2022: Research Assistant
   * King's College London and Tsinghua University
   * Research about optical tactile sensors, including sensor simulation, Sim2Real transfer learning, and reinforcement learning
-  * Supervisor: Dr. Shan Luo and Dr. Bin Fang
+  * Supervisor: Prof. Shan Luo and Prof. Bin Fang
 
 Five Representative Publications
 ======
