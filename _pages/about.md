@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at Scuola Superiore Sant'Anna (SSSA) under the supervision of [Prof. Cesare Stefanini](https://scholar.google.com/citations?user=4ySaHDQAAAAJ&hl=en) and [Prof. Arianna Menciassi](https://scholar.google.com/citations?user=mI-YzHgAAAAJ&hl=en). My research focuses on data-driven control strategies for soft robotics.
+I am a Ph.D. graduated from Scuola Superiore Sant'Anna (SSSA) under the supervision of [Prof. Cesare Stefanini](https://scholar.google.com/citations?user=4ySaHDQAAAAJ&hl=en) and [Prof. Arianna Menciassi](https://scholar.google.com/citations?user=mI-YzHgAAAAJ&hl=en). My research focuses on data-driven control strategies for soft robotics.
 
 I was an exchange student at EPFL (Aug.-Oct., 2024) and a research assistant at King's College London and Tsinghua University (2021-2022). Before my Ph.D., my research focused on physical model-based tactile sensor simulation. 
 
