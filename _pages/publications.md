@@ -28,7 +28,7 @@ Y. Sun, S. Zhang, **Z. Chen**, et al., [“Soft Contact Simulation and Manipulat
 # 2024
 **Z. Chen**,  M. Bernabei, V. Mainardi, et al., [“A Novel and Accurate BiLSTM Configuration Controller for Modular Soft Robots with Module Number Adaptability,”](https://arxiv.org/abs/2401.10997) in Soft Robotics (accepted)
 
-W. Liu, Y Shao, Y Zhang, **Z Chen**, et al., ["DESectBot: Design and Validation of a Novel Two-Segment Decoupled Continuum Robotic System for Endoscopic Submucosal Dissection,"](https://ieeexplore.ieee.org/abstract/document/10802473) 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Abu Dhabi, United Arab Emirates, pp. 6983-6989, 2024
+W. Liu, Y. Shao, Y. Zhang, **Z. Chen**, et al., ["DESectBot: Design and Validation of a Novel Two-Segment Decoupled Continuum Robotic System for Endoscopic Submucosal Dissection,"](https://ieeexplore.ieee.org/abstract/document/10802473) 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Abu Dhabi, United Arab Emirates, pp. 6983-6989, 2024
 
 Z. Shen, Y. Sun, S. Zhang, **Z. Chen**, et al., [“Simulation of Optical Tactile Sensors Supporting Slip and Rotation Using Path Tracing and IMPM,”](https://ieeexplore.ieee.org/document/10720429) in IEEE Robotics and Automation Letters, vol. 9, no. 12, pp. 11218-11225, 2024.
 
