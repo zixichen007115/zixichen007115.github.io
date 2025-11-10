@@ -39,8 +39,6 @@ Email: zc.academic at gmail.com
 **2023**
 * Nov: [Publication] Our paper [A Hybrid Adaptive Controller for Soft Robot Interchangeability](https://ieeexplore.ieee.org/document/10333308) has been accepted to IEEE Robotics and Automation Letters (IEEE RA-L)!
 
-* Aug: [Publication] Our paper [TIRgel: A Visuo-Tactile Sensor with Total Internal Reflection Mechanism for External Observation and Contact Detection](https://ieeexplore.ieee.org/document/10224334) has been accepted to IEEE Robotics and Automation Letters (IEEE RA-L)!
-
 * Apr: [Publication] Our paper Plasticine Manipulation Simulation with Optical Tactile Sensing has been accepted to [ICRA 2023 ViTac Workshop: Blending Virtual and Real Visuo-Tactile Perception](https://shanluo.github.io/ViTacWorkshops/), see you in London!
 
 * Feb: [Talk] I give a [paper sharing](https://www.bilibili.com/video/BV12e4y1P7vU/?spm_id_from=333.999.0.0&vd_source=30f84963de0918b2a474e7e104372ace) for taichi community in Chinese about our [IEEE RA-L paper](https://ieeexplore.ieee.org/document/10017344).
