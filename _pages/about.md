@@ -43,4 +43,4 @@ Email: zc.academic at gmail.com
 
 * Feb: [Talk] I give a [paper sharing](https://www.bilibili.com/video/BV12e4y1P7vU/?spm_id_from=333.999.0.0&vd_source=30f84963de0918b2a474e7e104372ace) for taichi community in Chinese about our [IEEE RA-L paper](https://ieeexplore.ieee.org/document/10017344).
 
-* Jan: [Publication] Our paper [Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors](https://ieeexplore.ieee.org/document/10017344) has been accepted to IEEE Robotics and Automation Letters (IEEE RA-L)! Thank Dr. Shan Luo and Dr. Bin Fang for their supervision during this work! 
+* Jan: [Publication] Our paper [Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors](https://ieeexplore.ieee.org/document/10017344) has been accepted to IEEE Robotics and Automation Letters (IEEE RA-L)! Thank Prof. Shan Luo and Prof. Bin Fang for their supervision during this work! 
