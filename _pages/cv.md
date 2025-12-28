@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my detailed CV [here](https://github.com/zixichen007115/zixichen007115.github.io/blob/master/files/CV_Zixi_Chen.pdf)
+
 Education
 ======
 * Ph.D. (with distinction) in Biorobotics at Scuola Superiore Sant'Anna, 2022-2025
