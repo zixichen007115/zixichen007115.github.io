@@ -57,6 +57,6 @@ IEEE Transactions on Automation Science and Engineering (T-ASE)
 
 Soft Robotics (SoRo)
 
- IEEE Robotics and Automation Letters (RA-L)
+Robotics and Autonomous Systems
 
 
