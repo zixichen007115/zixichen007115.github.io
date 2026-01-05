@@ -51,12 +51,12 @@ Five Representative Peer Review Records
 ======
 IEEE Transactions on Robotics (T-RO)
 
-IEEE Transactions on Automation Science and Engineering (T-ASE)
+IEEE/ASME Transactions on Mechatronics (TMECH)
 
-IEEE Transactions on Industrial Electronics (TIE)
+IEEE Transactions on Automation Science and Engineering (T-ASE)
 
 Soft Robotics (SoRo)
 
-IEEE Transactions on Medical Robotics and Bionics (T-MRB)
+ IEEE Robotics and Automation Letters (RA-L)
 
 
