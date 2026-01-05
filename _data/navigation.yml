@@ -1,14 +1,14 @@
 # main links links
 main:
 
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Publications"
-    url: /publications/
-    
-  - title: "Leisure time"
+  - title: "CV&Publications"
+    url: /cv_and_publications/
+        
+  - title: "Leisure Time"
     url: /leisure_time/
+
+#  - title: "Publications"
+#    url: /publications/
 
 #  - title: "IROS 2025 workshop"
 #    url: /iros2025ws/
