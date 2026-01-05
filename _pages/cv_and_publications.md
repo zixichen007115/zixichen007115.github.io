@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "CV&Publications"
+permalink: /cv_and_publications/
 author_profile: true
 redirect_from:
   - /resume
@@ -22,11 +22,11 @@ Work experience
 * Nov. 2021- Sep. 2022: Research Assistant
   * King's College London and Tsinghua University
   * Research about optical tactile sensors, including sensor simulation, Sim2Real transfer learning, and reinforcement learning
-  * Supervisor: Prof. Shan Luo and Prof. Bin Fang
+  * Supervisors: Prof. Shan Luo and Prof. Bin Fang
 
 Five Representative Publications
 ======
-(Please refer to the [Publications](https://zixichen007115.github.io/publications/) page for the complete publication list.)
+(Please refer to [Google Scholar](https://scholar.google.com/citations?user=s78k3cgAAAAJ&hl=en) for the complete publication list.)
 
 **Z. Chen**, Q. Guan, J. Hughes, et al., [“A Versatile Neural Network Configuration Space Planning and Control Strategy for Modular Soft Robot Arms,”](https://ieeexplore.ieee.org/document/11049035) in IEEE Transactions on Robotics, vol. 41, pp. 4269-4282, 2025.
 
@@ -41,22 +41,19 @@ Five Representative Publications
 
 Academic Service
 ======
+
+Peer Review Contributions:
+
+T-RO, TMECH, T-ASE, SoRo, TIE, T-MRB, RAS, RA-L, IROS, ICRA
+
+Workshops:
+
 I am the main organizer of the serial workshops 'SOFT Frontiers':
 
 IROS 2025 ['The SOFT Frontier 2: Practical applications in soft robotics'](https://sites.google.com/view/sft-front/iros-2025)
 
 IROS 2024 ['The SOFT Frontier: Adaptive technologies in soft robotics'](https://sites.google.com/view/sft-front/iros-2024)
 
-Five Representative Peer Review Records
-======
-IEEE Transactions on Robotics (T-RO)
 
-IEEE/ASME Transactions on Mechatronics (TMECH)
-
-IEEE Transactions on Automation Science and Engineering (T-ASE)
-
-Soft Robotics (SoRo)
-
-Robotics and Autonomous Systems
 
 
