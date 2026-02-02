@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Citations: 462 | h-index: 7 (Till Jan 2026 according to Google Scholar)
+Citations: 462, h-index: 7 (Till Jan 2026 according to Google Scholar)
 
 Five Representative Publications
 ======
