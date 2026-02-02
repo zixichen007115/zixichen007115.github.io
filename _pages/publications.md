@@ -11,9 +11,10 @@ redirect_from:
 
 Citations: 462, h-index: 7 (Till Jan 2026 according to Google Scholar)
 
+Please refer to [Google Scholar](https://scholar.google.com/citations?user=s78k3cgAAAAJ&hl=en) for the complete publication list.
+
 Five Representative Publications
 ======
-(Please refer to [Google Scholar](https://scholar.google.com/citations?user=s78k3cgAAAAJ&hl=en) for the complete publication list.)
 
 **Z. Chen**, Q. Guan, J. Hughes, et al., [“A Versatile Neural Network Configuration Space Planning and Control Strategy for Modular Soft Robot Arms,”](https://ieeexplore.ieee.org/document/11049035) in IEEE Transactions on Robotics, vol. 41, pp. 4269-4282, 2025.
 
