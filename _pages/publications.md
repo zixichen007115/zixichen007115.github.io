@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Citations: 462, h-index: 7 (Till Jan 2026 according to Google Scholar)
+Citations: 462, h-index: 7 (Up to Jan 2026 according to Google Scholar)
 
 Please refer to [Google Scholar](https://scholar.google.com/citations?user=s78k3cgAAAAJ&hl=en) for the complete publication list.
 
