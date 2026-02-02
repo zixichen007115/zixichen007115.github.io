@@ -1,12 +1,9 @@
 # main links links
 main:
-
   - title: "CV"
     url: /cv/
-    
- - title: "Publications"
-   url: /publications/
-
+  - title: "Publications"
+    url: /publications/
   - title: "Leisure Time"
     url: /leisure_time/
 
