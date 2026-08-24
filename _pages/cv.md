@@ -15,7 +15,7 @@ Work experience
 ======
 * Sep. 2026- Present: Postdoctoral Researcher
   * Brurobotics, VUB
-  * Project management of one of the largest EC-funded soft robotics projects ([RESSORT](http://ressort-project.eu/)) and the research of underactuated dexterous hand designs.
+  * Project management of one of the largest EC-funded soft robotics projects ([RESSORT](http://ressort-project.eu/)) and research on underactuated dexterous hand designs.
   * Cooperation Professor: Prof. Seppe Terryn, Prof. Bram Vanderborght
 
 * Dec. 2025- Present: Research Scientist
@@ -45,6 +45,8 @@ npj Robotics, T-RO, TMECH, T-ASE, SoRo, TIE, T-MRB, RAS, RA-L, IROS, ICRA
 Workshops:
 
 I am the main organizer of the serial workshops 'SOFT Frontiers':
+
+IROS 2026 ['The SOFT Frontier 4: Intelligent Interactions in Soft Robotics'](https://sites.google.com/view/sft-front/iros-2026)
 
 ICRA 2026 ['The SOFT Frontier 3: Soft or Rigid? New Trends in Wearable Robotics'](https://sites.google.com/view/sft-front/icra-2026)
 
