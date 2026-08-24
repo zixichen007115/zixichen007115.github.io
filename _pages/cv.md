@@ -14,7 +14,7 @@ You can find my detailed CV [here](https://github.com/zixichen007115/zixichen007
 Work experience
 ======
 * Dec. 2025- Present: Research Scientist
-  * Ultimage Intelligent Technology Co., Ltd.
+  * [Ultimage Intelligent Technology (Macau) Limited](https://www.ultimage.com.cn/en/)
   * Development of a novel continuum surgical robotic system for endoscopic surgery
   * Cooperation Professor: Prof. Jia Gu
 
