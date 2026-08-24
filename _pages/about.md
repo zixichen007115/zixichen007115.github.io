@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postdoctoral researcher at BruBotics, Vrije Universiteit Brussel (VUB).
 I received my B.Eng., M.Sc., and Ph.D. degrees from Harbin Institute of Technology (China), Imperial College London (UK), and Scuola Superiore Sant’Anna (Italy) in 2020, 2021, and 2025, respectively. My Ph.D. research was conducted under the supervision of [Prof. Cesare Stefanini](https://scholar.google.com/citations?user=4ySaHDQAAAAJ&hl=en) and [Prof. Arianna Menciassi](https://scholar.google.com/citations?user=mI-YzHgAAAAJ&hl=en). 
-I was a Scientific Advisor at Ultimage Intelligent Technology (Macau) Limited (2026), an exchange student at EPFL (2024), and a research assistant at King’s College London and Tsinghua University (2022).
+I was a Scientific Advisor at [Ultimage Intelligent Technology (Macau) Limited](https://www.ultimage.com.cn/en/) (2026), an exchange student at EPFL (2024), and a research assistant at King’s College London and Tsinghua University (2022).
 My research interests include underactuated dexterous hands, continuum robotics, surgical robotics, and optical tactile sensing.
 
 
@@ -22,7 +22,7 @@ Email: zixi.chen at vub.be
 * Sep: [Job] I joined BruBotics, VUB, as a Postdoctoral Researcher in the [RESSORT](http://ressort-project.eu/) project, contributing to the project management of one of the largest EC-funded soft robotics projects and the research of underactuated dexterous hand designs.
 
 **2025**
-* Oct: [Job] I joined Ultimage Intelligent Technology (Macau) Limited as a Scientific Advisor, working on the development of continuum surgical robotics, research on rolling-joint continuum robotics and teleoperation, and PhD student supervision.
+* Oct: [Job] I joined [Ultimage Intelligent Technology (Macau) Limited](https://www.ultimage.com.cn/en/) as a Scientific Advisor, working on the development of continuum surgical robotics, research on rolling-joint continuum robotics and teleoperation, and PhD student supervision.
 
 * Oct: [Graduation] I was awarded a PhD in Biorobotics with distinction from the Biorobotics Institute, Scuola Superiore Sant’Anna.
 
