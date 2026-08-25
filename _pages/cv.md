@@ -16,7 +16,7 @@ Work experience
 * Sep. 2026- Present: Postdoctoral Researcher
   * Brurobotics, VUB
   * Project management of one of the largest EC-funded soft robotics projects ([RESSORT](http://ressort-project.eu/)) and research on underactuated dexterous hand designs.
-  * Cooperation Professor: Prof. Seppe Terryn, Prof. Bram Vanderborght
+  * Cooperation Professor: Prof. Seppe Terryn and Prof. Bram Vanderborght
 
 * Dec. 2025- Present: Scientific Advisor
   * [Ultimage Intelligent Technology (Macau) Limited](https://www.ultimage.com.cn/en/)
