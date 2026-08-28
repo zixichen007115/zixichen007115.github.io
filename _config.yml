@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zixi Chen （陈子熙）"
 title_separator          : "-"
 name                     : &name "Zixi Chen （陈子熙）"
-description              : &description "A Ph.D. student at Scuola Superiore Sant'Anna"
+description              : &description "A Postdoctoral Researcher at VUB"
 url                      : https://zixichen007115.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zixichen007115.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zixi Chen （陈子熙）"
   avatar           : "profile.jpg"
-  bio              : "A Ph.D. student on neural network and soft robot control."
-  location         : "Pontedera, Pisa, Italy"
-  employer         : "Scuola Superiore Sant'Anna"
+  bio              : "A Postdoctoral Researcher at VUB"
+  location         : "Brussels, Belgium"
+  employer         : "Vrije Universiteit Brussel"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=s78k3cgAAAAJ&hl=en&oi=ao"
-  email            : "Zixi.Chen@santannapisa.it"
+  email            : "zixi.chen@vub.be"
   researchgate     : "https://www.researchgate.net/profile/Zixi_Chen11"
   uri              :
   bitbucket        :
