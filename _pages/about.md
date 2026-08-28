@@ -17,7 +17,7 @@ I was a Scientific Advisor at [Ultimage Intelligent Technology (Macau) Limited](
 
 
 ## Contact
-Email: zixi.chen at vub.be
+Email: zixi.chen at vub.be; zc.academic at gmail.com
 
 ## News
 **2026**
