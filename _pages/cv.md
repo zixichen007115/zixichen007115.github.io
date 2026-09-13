@@ -9,24 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my detailed CV [here](https://github.com/zixichen007115/zixichen007115.github.io/blob/master/files/CV.pdf)
+You can find my detailed CV [here](https://github.com/zixichen007115/zixichen007115.github.io/blob/master/files/CV_Zixi_Chen.pdf)
 
 Work experience
 ======
 * Sep. 2026- Present: Postdoctoral Researcher
   * Brurobotics, VUB
-  * Project management of one of the largest EC-funded soft robotics projects ([RESSORT](http://ressort-project.eu/)) and research on underactuated dexterous hand designs.
-  * Cooperation Professor: Prof. Seppe Terryn and Prof. Bram Vanderborght
+  * Assistance in coordinating one of the largest EC-funded soft robotics projects ([RESSORT](http://ressort-project.eu/)) and research on underactuated dexterous hand designs.
+  * Collaborating Professor: Prof. Seppe Terryn and Prof. Bram Vanderborght
 
 * Dec. 2025- Present: Scientific Advisor
   * [Ultimage Intelligent Technology (Macau) Limited](https://www.ultimage.com.cn/en/)
   * Development of continuum surgical robotics, research on rolling-joint continuum robotics and teleoperation, and PhD student supervision.
-  * Cooperation Professor: Prof. Jia Gu
+  * Collaborating Professor: Prof. Jia Gu
 
 * Nov. 2021- Sep. 2022: Research Assistant
   * King's College London and Tsinghua University
   * Research about optical tactile sensors, including sensor simulation, Sim2Real transfer learning, and reinforcement learning
-  * Cooperation Professors: Prof. Shan Luo and Prof. Bin Fang
+  * Collaborating Professors: Prof. Shan Luo and Prof. Bin Fang
 
 Education
 ======
