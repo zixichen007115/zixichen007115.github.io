@@ -37,13 +37,13 @@ Education
 
 Academic Service
 ======
+Editorial Contributions:
+ICRA
 
 Peer Review Contributions:
-
 npj Robotics, T-RO, TMECH, T-ASE, SoRo, TIE, T-MRB, RAS, RA-L, IROS, ICRA
 
 Workshops:
-
 I am the main organizer of the serial workshops 'SOFT Frontiers':
 
 IROS 2026 ['The SOFT Frontier 4: Intelligent Interactions in Soft Robotics'](https://sites.google.com/view/sft-front/iros-2026)
